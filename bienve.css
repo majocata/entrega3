@@ -1,0 +1,286 @@
+.jost{
+	position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 450%;
+    top:2%;
+	left:10%;
+	height:0%;
+}
+.jost1{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:26%;
+	left:  10%;
+	height:0%;
+}
+.jost2{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:35%;
+	left: 10%;
+	height:0%;
+}
+.jost3{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:44%;
+	left: 10%;
+	height:0%;
+}
+.jost4{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:54%;
+	left:10%;
+	height:0%;
+}
+.jost5{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:64%;
+	left: 10%;
+	height:0%;
+}
+.jost6{
+	position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 530%;
+    top:122%;
+	left: 7%;
+	height:0%;
+}
+.jost7 {
+	position: absolute;
+	background-image: url(fondo3.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:142%;
+	left: 8%;
+	height:60%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost7:hover {
+	position: absolute;
+	background-image: url(fondo5.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:142%;
+	left: 8%;
+	height:60%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost8{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 530%;
+    top:235%;
+	left: 7%;
+	height:0%;
+}
+.jost9 {
+	position: absolute;
+	background-image: url(fondo3.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:255%;
+	left: 8%;
+	height:65%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost9:hover {
+	position: absolute;
+	background-image: url(fondo5.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:255%;
+	left: 8%;
+	height:65%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost10{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 530%;
+    top:347%;
+	left: 7%;
+	height:0%;
+}
+.jost11 {
+	position: absolute;
+	background-image: url(fondo3.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:365%;
+	left:7%;
+	height:65%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost11:hover {
+	position: absolute;
+	background-image: url(fondo5.jpg);
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:365%;
+	left:7%;
+	height:65%;
+	width: 30%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost12{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 530%;
+    top:467%;
+	left: 7%;
+	height:0%;
+}
+.jost13 {
+	position: absolute;
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:495%;
+	left:7%;
+	height:0%;
+
+}
+.jost16 {
+	position: absolute;
+	background-image: url(aleatorio.jpeg);
+    top:510%;
+	left:7%;
+	height:10%;
+	width: 30%;
+	background-size: cover;
+}
+
+.jost14 {
+	position: absolute;
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:520%;
+	left:7%;
+	height:0%;
+	width: 30%;
+}
+.jost17 {
+	position: absolute;
+	background-image: url(promedio.jpeg);
+    top:530%;
+	left:7%;
+	height:5%;
+	width: 10%;
+}
+.jost15 {
+	position: absolute;
+	font-family: 'Unkempt', cursive;
+	font-size: 200%;
+    top:545%;
+	left:7%;
+	height:0%;
+	width: 30%;
+}
+.jost18 {
+	position: absolute;
+    background-image: url(ganoperdio.jpeg);
+    top:555%;
+	left:7%;
+	height:5%;
+	width: 15%;
+}
+.jost19{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:557%;
+	right:2%;
+	height:0%;
+}
+.jost20{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:437%;
+	right:2%;
+	height:0%;
+}
+.jost21{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:327%;
+	right:2%;
+	height:0%;
+}
+.jost22{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:210%;
+	right:2%;
+	height:0%;
+}
+.jost23{
+	position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Modak', cursive;
+	font-size: 530%;
+    top:587%;
+	left: 8%;
+	height:0%;
+}
+.jost24 {
+	position: absolute;
+	background-image: url(ejemplo.jpeg);
+    top:605%;
+	left: 8%;
+	height:60%;
+	width: 85%;
+	border: black 5px solid;
+	border-color: black;
+	background-size: cover;
+}
+.jost25{
+    position: absolute;
+	background-size: #F8E5F3;
+	font-family: 'Ribeye', cursive;
+	font-size: 230%;
+    top:670%;
+	right:2%;
+	height:0%;
+}
